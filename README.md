@@ -59,6 +59,16 @@ Send a `POST` request to `/predict` with JSON data:
 ```
 The API will return a groundwater level prediction along with performance metrics.
 
+
+## 📷 Screenshots
+
+![ss1](https://github.com/user-attachments/assets/9910e06c-b155-4f32-a6e4-69f5108dbfbd)
+<br>
+![ss2](https://github.com/user-attachments/assets/b5e1989e-633c-4f19-abd2-4e2917ec337c)
+<br>
+![image](https://github.com/user-attachments/assets/fdca25bd-2b7f-4325-9f41-b20d8a039275)
+<br>
+
 ## 📢 Contributions
 Feel free to fork, contribute, and improve the project! 🚀
 
