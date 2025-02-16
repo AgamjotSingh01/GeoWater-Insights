@@ -1,0 +1,411 @@
+{
+    "Gujarat_24": {
+        "Banaskantha_441": [
+            "Tharad_3733",
+            "Dantiwada_3735",
+            "Deodar_3741",
+            "Deesa_3740",
+            "Dhanera_3734",
+            "Palanpur_3739",
+            "Lakhani_6168",
+            "Vadgam_3738",
+            "Kankrej_3743"
+        ],
+        "Gandhinagar_446": [
+            "Dehgam_3776",
+            "Kalol_3773",
+            "Mansa_3774",
+            "Gandhinagar_3775"
+        ],
+        "Kachchh_449": [
+            "Mandvi_3729",
+            "Anjar_3725",
+            "Bhachau_3724",
+            "Bhuj_3726",
+            "Nakhatrana_3727"
+        ],
+        "Mahesana_451": [
+            "Vadnagar_3755",
+            "Visnagar_3754",
+            "Mahesana_3757",
+            "Kadi_3759",
+            "Unjha_3753",
+            "Vijapur_3756",
+            "Kheralu_3752",
+            "Jotana_6021",
+            "Becharaji_3758",
+            "Satlasana_3751"
+        ],
+        "Patan_455": [
+            "Sarasvati_6196",
+            "Patan_3747",
+            "Chanasma_3750",
+            "Sidhpur_3746"
+        ],
+        "Sabarkantha_458": [
+            "Vadali_3762",
+            "Talod_3768",
+            "Idar_3763",
+            "Prantij_3767"
+        ]
+    },
+    "Haryana_6": {
+        "Bhiwani_59": [
+            "Kairu_459",
+            "Tosham_462",
+            "Loharu_460",
+            "Behal_455"
+        ],
+        "Charki Dadri_701": [
+            "Badhra_453"
+        ],
+        "Faridabad_60": [
+            "Faridabad_464",
+            "Ballabgarh_463"
+        
+        ],
+        "Fatehabad_61": [
+            "Tohana_474"
+        ],
+        "Gurugram_62": [
+            "Farrukh Nagar_475",
+            "Gurgaon_477",
+            "Sohna_482",
+            "Pataudi_480"
+        ],
+        "Kaithal_66": [
+            "Guhla_505",
+           
+            "Rajound_509"
+        ],
+        "Karnal_67": [
+            "Karnal_514"
+        ],
+        "Kurukshetra_68": [
+            "Pehowa_519",
+       
+            "Ladwa_518",
+            "Shahbad_520"
+        ],
+        "Mahendragarh_69": [
+            "Kanina_523",
+            "Narnaul_526",
+            "Nangal Chaudhry_525",
+            "Ateli Nangal_522",
+            "Mahendragarh_524"
+        ],
+        "Palwal_619": [
+ 
+            "Hodal_467",
+            "Hathin_466",
+            "Palwal_468",
+            "Hassanpur_465"
+        ],
+        "Panipat_71": [
+
+            "Samalkha_535",
+            "Bapoli_531"
+        ],
+        "Rewari_72": [
+
+            "Khol At Rewari_538"
+        ],
+        "Sirsa_74": [
+            "Ellenabad_548",
+            "Rania_551"
+        ],
+        "Yamunanagar_76": [
+            "Jagadhri_562",
+            "Saraswati Nagar_563",
+            "Sadaura (Part)_565",
+            "Radaur_564"
+        ]
+    },
+    "Karnataka_29": {
+        "Bagalkote_524": [
+            "Bagalkot_5754",
+            "Badami_5753"
+        ],
+        "Belagavi_527": [
+            "Ramdurg_5779",
+            "Athani_5771"
+        ],
+        "Bengaluru Rural_526": [
+            "Doddaballapura_5602",
+            "Hoskote_5766",
+            "Devanahalli_5603",
+            "Nelamangala_5769"
+        ],
+        "Chamarajanagara_531": [
+            "Gundlupet_5576"
+        ],
+        "Chikkaballapur_630": [
+            "Bagepalli_5864",
+            "Chikkaballapur_5596",
+            "Sidlaghatta_5873",
+            "Gudibande_5597",
+            "Chintamani_5600",
+            "Gauribidanur_5595"
+        ],
+        "Chikkamagaluru_532": [
+            "Kadur_5803"
+        ],
+        "Chitradurga_533": [
+            "Chitradurga_5505",
+            "Challakere_5809",
+            "Hiriyur_5811",
+            "Holalkere_5812",
+            "Hosadurga_5813"
+        ],
+        "Davangere_535": [
+            "Jagaluru_5825",
+            "Channagiri_5820"
+        ],
+        "Gadag_537": [
+            "Gadag_5470",
+            "Ron_5834"
+        ],
+        "Hassan_539": [
+            "Arsikere_5848"
+        ],
+        "Kolar_542": [
+            "Kolar_5870",
+            "Mulbagal_5872",
+            "Bangarpet_5865",
+            "Malur_5871",
+            "Srinivaspur_5874"
+        ],
+        "Ramanagara_631": [
+            "Ramanagara_5770",
+            "Kanakapura_5767"
+        ],
+        "Tumakuru_548": [
+            "Sira_5911",
+            "Chikkanayakanahalli_5532",
+            "Tumakuru_5913",
+            "Madhugiri_5909",
+            "Koratagere_5907",
+            "Tiptur_5912"
+        ],
+        "Vijayanagar_738": [
+            "Hagaribommanahalli_5783",
+            "Harapanahalli_5822"
+        ]
+    },
+    "Madhya Pradesh_23": {
+        "Chhatarpur_398": [
+            "Chhatarpur_3785",
+            "Rajnagar_3788",
+            "Nowgong_3787"
+        ],
+        "Damoh_400": [
+            "Patheria_3805"
+        ],
+        "Niwari_722": [
+            "Niwari_4029"
+        ],
+        "Panna_420": [
+            "Ajeygarh_3930"
+        ],
+        "Sagar_425": [
+            "Sagar_3972"
+        ],
+        "Tikamgarh_434": [
+            "Baldeogarh_4027",
+            "Palera_4030"
+        ]
+    },
+    "Maharashtra_27": {
+        "Ahmednagar_466": [
+            "Sangamner_4287",
+            "Rahata_4285",
+            "Karjat_4279"
+        ],
+        "Amravati_468": [
+            "Morshi_4308",
+            "Chandurbazar_4303",
+            "Warud_4311"
+        ],
+        "Buldhana_472": [
+            "Motala_4347",
+            "Malkapur_4345"
+        ],
+        "Jalgaon_478": [
+            "Yawal_4410",
+            "Amalner_4396",
+            "Parola_4408",
+            "Raver_4409"
+        ],
+        "Jalna_479": [
+            "Ghansawangi_4414",
+            "Jalna_4412",
+            "Partur_4418"
+        ],
+        "Latur_481": [
+            "Chakur_4433",
+            "Latur_4436",
+            "Renapur_4438",
+            "Shirur Anantpal_4439",
+            "Nilanga_4437"
+        ],
+        "Nagpur_484": [
+            "Katol_4448",
+            "Narkhed_4452"
+        ],
+        "Nashik_487": [
+            "Nashik_4487",
+            "Deola_4481",
+            "Sinnar_4490"
+        ],
+        "Osmanabad_488": [
+            "Osmanabad_4498",
+            "Omerga_4497"
+        ],
+        "Pune_490": [
+            "Purandar_4522",
+            "Baramati_4512",
+            "Indapur_4516"
+        ],
+        "Sangli_493": [
+            "Miraj_4554",
+            "Kavathemahankal_4552",
+            "Jath_4550",
+            "Tasgaon_4557",
+            "Khanapur-Vita_4553"
+        ],
+        "Satara_494": [
+            "Mahabaleshwar_4564",
+            "Wai_4569",
+            "Khatav_4562",
+            "Man_4565"
+        ],
+        "Solapur_496": [
+            "Pandharpur_4585",
+            "Malshiras_4582",
+            "Mohol_4584",
+            "Madha_4581"
+        ]
+    },
+    "Rajasthan_8": {
+        "Ajmer_86": [
+            "Srinagar_573",
+            "Ajmer Rural_7382",
+            "Pisangan_572"
+        ],
+        "Alwar_87": [
+            "Rajgarh_582"
+        ],
+        "Baran_89": [
+            "Baran_598",
+            "Atru_597"
+        ],
+        "Bhilwara_92": [
+            "Shahpura_629"
+        ],
+        "Chittaurgarh_95": [
+            "Chittaurgarh_647"
+        ],
+        "Dausa_97": [
+            "Nangal Rajawatan_7441",
+            "Sikandra_7439",
+            "Baswa_7437",
+            "Lawan_6823",
+            "Dausa_661",
+            "Baijupada_7436",
+            "Bandikui_660"
+        ],
+        "Dhaulpur_98": [
+            "Saipau_6871",
+            "Dhaulpur_667"
+        ],
+        "Hanumangarh_101": [
+            "Tibbi_6616",
+            "Hanumangarh_682",
+            "Sangriya_6615"
+        ],
+        "Jaipur_102": [
+            "Jalsu_6820",
+            "Amber_684",
+            "Govindgarh_7397"
+        ],
+        "Jaisalmer_103": [
+            "Nachna_7452",
+            "Jaisalmer_697",
+            "Mohangarh_7451"
+        ],
+        "Jhalawar_105": [
+            "Khanpur_710"
+        ],
+        "Jhunjhunu_106": [
+            "Khetri_717"
+        ],
+        "Karauli_108": [
+            "Shri Mahaveer Ji_7405",
+            "Hindaun_730"
+        ],
+        "Kota_109": [
+            "Sangod_738"
+        ],
+        "Rajsamand_112": [
+            "Rajsamand_767"
+        ],
+        "Sawai Madhopur_113": [
+            "Chauth Ka Barwara_6824",
+            "Khandar_771",
+            "Sawai Madhopur_772"
+        ],
+        "Sikar_114": [
+            "Patan_6856",
+            "Neem Ka Thana_778",
+            "Ajeetgarh_7469"
+        ]
+    },
+    "Uttar Pradesh_9": {
+        "Baghpat_124": [
+            "Pilana_893",
+            "Baghpat_888"
+        ],
+        "Banda_128": [
+            "Barokhar Khurd_935",
+            "Naraini_940",
+            "Mahuva_939",
+            "Jaspura_937",
+            "Tindwari_941"
+        ],
+        "Chitrakoot_136": [
+            "Manikpur_1043",
+            "Mau_1044",
+            "Ramnagar_953",
+            "Karvi_1042"
+        ],
+        "Hamirpur_149": [
+            "Sarila_1193",
+            "Sumerpur_1194",
+            "Muskara_1191",
+            "Maudaha_1190"
+        ],
+        "Jhansi_153": [
+            "Mauranipur_1250",
+            "Babina_1244"
+        ],
+        "Lalitpur_161": [
+            "Talbehat_1328"
+        ],
+        "Mahoba_165": [
+            "Charkhari_1356",
+            "Kabrai_1358",
+            "Jaitpur_1357",
+            "Panwari_1359"
+        ],
+        "Meerut_169": [
+            "Kharkhoda_1391",
+            "Rajpura_1396"
+        ],
+        "Muzaffarnagar_172": [
+            "Budhana_1426"
+        ],
+        "Shamli_660": [
+            "Kandhala_1430"
+        ]
+    }
+}
