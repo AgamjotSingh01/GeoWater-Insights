@@ -28,14 +28,6 @@ function Navbar1() {
                     <Link href={'/'} className='p-2 h4 text-decoration-none'>Contact</Link>
                 </div>
             </div>
-            <div>
-                <Image
-                    src='/JalShakti.png'
-                    alt='sarkar'
-                    width={197}
-                    height={95}
-                />
-            </div>
         </div>
 
     </div>
